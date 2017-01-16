@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\ASPROJECT\Mybrowser2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dcfb01ca2f42565ce70a2978ccad90444c13c546">
+        <dex dex="E:\ASPROJECT\Mybrowser2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1babab1c6f7e3e7416206e20566a0d871fc11ce5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ASPROJECT\Mybrowser2\build\generated\tbsx5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bd575a4916f5620b05b4b3c6c7746671186c6965">
+        <dex dex="E:\ASPROJECT\Mybrowser2\app\build\intermediates\transforms\dex\debug\folders\1000\2\tbsx5_cb599b000faeeefe53cfb0dc4e255e3cbce86c14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ANDROID\AndroidSDK2\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="E:\ASPROJECT\Mybrowser2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_d17f8cbe7a67de0cf69efc6f8932207eaf6ebc73\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ASPROJECT\Mybrowser2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="14ec4fdec685960ca1986c3ad5098c221ed981bd">
+        <dex dex="E:\ASPROJECT\Mybrowser2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4c23f26d8c6015ad04f2fb2d70b75d0d23146b42\classes.dex" />
+    </item>
+
+</items>

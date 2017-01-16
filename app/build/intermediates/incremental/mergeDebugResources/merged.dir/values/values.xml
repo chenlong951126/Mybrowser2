@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#f000</color>
+    <color name="black_transparent">#88000000</color>
+    <color name="transparent">#0000</color>
+    <color name="white">#ffff</color>
+    <color name="white_transparent">#88ffffff</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <drawable name="clr_normal">#ffffff</drawable>
+    <drawable name="clr_pressed">#ccc</drawable>
+    <string name="app_name">CL云解析</string>
+    <string name="close">关闭</string>
+    <string name="sure">确定</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="btnImage">
+        <item name="android:layout_width">45dp</item>
+        <item name="android:layout_height">45dp</item>
+        <item name="android:padding">5dp</item>
+    </style>
+</resources>

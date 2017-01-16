@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\ASPROJECT\\Mybrowser2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\compback.png",
+        "source": "E:\\ASPROJECT\\Mybrowser2\\app\\src\\main\\res\\drawable-hdpi\\compback.png"
+    },
+    {
+        "merged": "E:\\ASPROJECT\\Mybrowser2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\go.png",
+        "source": "E:\\ASPROJECT\\Mybrowser2\\app\\src\\main\\res\\drawable-hdpi\\go.png"
+    },
+    {
+        "merged": "E:\\ASPROJECT\\Mybrowser2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\right.png",
+        "source": "E:\\ASPROJECT\\Mybrowser2\\app\\src\\main\\res\\drawable-hdpi\\right.png"
+    },
+    {
+        "merged": "E:\\ASPROJECT\\Mybrowser2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\home_fill.png",
+        "source": "E:\\ASPROJECT\\Mybrowser2\\app\\src\\main\\res\\drawable-hdpi\\home_fill.png"
+    },
+    {
+        "merged": "E:\\ASPROJECT\\Mybrowser2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\back.png",
+        "source": "E:\\ASPROJECT\\Mybrowser2\\app\\src\\main\\res\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "E:\\ASPROJECT\\Mybrowser2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "E:\\ASPROJECT\\Mybrowser2\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\ASPROJECT\\Mybrowser2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\refresh.png",
+        "source": "E:\\ASPROJECT\\Mybrowser2\\app\\src\\main\\res\\drawable-hdpi\\refresh.png"
+    },
+    {
+        "merged": "E:\\ASPROJECT\\Mybrowser2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\close.png",
+        "source": "E:\\ASPROJECT\\Mybrowser2\\app\\src\\main\\res\\drawable-hdpi\\close.png"
+    }
+]

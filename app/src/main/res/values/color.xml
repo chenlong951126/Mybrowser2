@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <drawable name="clr_normal">#ffffff</drawable>
+    <drawable name="clr_pressed">#ccc</drawable>
+
+</resources>

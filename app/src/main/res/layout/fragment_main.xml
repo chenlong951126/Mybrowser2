@@ -1,0 +1,117 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#ffffff"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:background="#eee"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/Text_show_url"
+            android:layout_width="0dp"
+            android:layout_height="30dp"
+            android:layout_marginBottom="-3dp"
+            android:layout_weight="1"
+            android:background="#fff"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:gravity="center_vertical"
+            android:textColor="#333" />
+
+        <Button
+            android:id="@+id/btn_refresh"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginBottom="-3dp"
+            android:background="@drawable/refresh" />
+    </LinearLayout>
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="#eee" />
+
+    <com.tencent.smtt.sdk.WebView
+        android:id="@+id/webView"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.95" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:background="#ccc"
+        android:orientation="horizontal"
+        android:paddingTop="1dp">
+
+        <LinearLayout
+            android:id="@+id/btn_back"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/btn_bg"
+            android:gravity="center">
+
+            <ImageView
+                android:id="@+id/imageView1"
+                style="@style/btnImage"
+                android:src="@drawable/back" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/btn_next"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/btn_bg"
+            android:gravity="center">
+
+            <ImageView
+                android:id="@+id/imageView2"
+                style="@style/btnImage"
+                android:src="@drawable/right" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/btn_home"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/btn_bg"
+            android:gravity="center">
+
+            <ImageView
+                android:id="@+id/imageView4"
+                style="@style/btnImage"
+                android:src="@drawable/home_fill" />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/btn_close"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/btn_bg"
+            android:gravity="center">
+
+            <ImageView
+                android:id="@+id/imageView5"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:padding="5dp"
+                android:src="@drawable/close" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

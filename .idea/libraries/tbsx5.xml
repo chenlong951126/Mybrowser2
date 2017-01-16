@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="tbsx5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/generated/tbsx5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/build/generated/tbsx5.jar!/" />
+    </SOURCES>
+  </library>
+</component>

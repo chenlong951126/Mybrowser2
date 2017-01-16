@@ -1,0 +1,298 @@
+[
+    {
+        "outputFile": "E:\\ASPROJECT\\Mybrowser2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 37,
+                    "endOffset": 88
+                },
+                "from": {
+                    "file": "E:\\ASPROJECT\\Mybrowser2\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 883,
+                        "endColumn": 37,
+                        "endOffset": 916
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 93,
+                    "endColumn": 53,
+                    "endOffset": 142
+                },
+                "from": {
+                    "file": "E:\\ASPROJECT\\Mybrowser2\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 689,
+                        "endColumn": 53,
+                        "endOffset": 738
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 147,
+                    "endColumn": 43,
+                    "endOffset": 186
+                },
+                "from": {
+                    "file": "E:\\ASPROJECT\\Mybrowser2\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 799,
+                        "endColumn": 43,
+                        "endOffset": 838
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 191,
+                    "endColumn": 37,
+                    "endOffset": 224
+                },
+                "from": {
+                    "file": "E:\\ASPROJECT\\Mybrowser2\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 844,
+                        "endColumn": 37,
+                        "endOffset": 877
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 229,
+                    "endColumn": 53,
+                    "endOffset": 278
+                },
+                "from": {
+                    "file": "E:\\ASPROJECT\\Mybrowser2\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 744,
+                        "endColumn": 53,
+                        "endOffset": 793
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 283,
+                    "endColumn": 57,
+                    "endOffset": 336
+                },
+                "from": {
+                    "file": "E:\\ASPROJECT\\Mybrowser2\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 341,
+                    "endColumn": 55,
+                    "endOffset": 392
+                },
+                "from": {
+                    "file": "E:\\ASPROJECT\\Mybrowser2\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 397,
+                    "endColumn": 50,
+                    "endOffset": 443
+                },
+                "from": {
+                    "file": "E:\\ASPROJECT\\Mybrowser2\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 50,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 448,
+                    "endColumn": 48,
+                    "endOffset": 492
+                },
+                "from": {
+                    "file": "E:\\ASPROJECT\\Mybrowser2\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 48,
+                        "endOffset": 151
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 497,
+                    "endColumn": 42,
+                    "endOffset": 535
+                },
+                "from": {
+                    "file": "E:\\ASPROJECT\\Mybrowser2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 42,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 540,
+                    "endColumn": 36,
+                    "endOffset": 572
+                },
+                "from": {
+                    "file": "E:\\ASPROJECT\\Mybrowser2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 99,
+                        "endColumn": 36,
+                        "endOffset": 131
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 577,
+                    "endColumn": 35,
+                    "endOffset": 608
+                },
+                "from": {
+                    "file": "E:\\ASPROJECT\\Mybrowser2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 5,
+                        "startOffset": 137,
+                        "endColumn": 36,
+                        "endOffset": 168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 613,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 900
+                },
+                "from": {
+                    "file": "E:\\ASPROJECT\\Mybrowser2\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 483
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 905,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1060
+                },
+                "from": {
+                    "file": "E:\\ASPROJECT\\Mybrowser2\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 524,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 681
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1065,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 1258
+                },
+                "from": {
+                    "file": "E:\\ASPROJECT\\Mybrowser2\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 924,
+                        "endLine": 31,
+                        "endColumn": 12,
+                        "endOffset": 1121
+                    }
+                }
+            }
+        ]
+    }
+]
