@@ -12,11 +12,15 @@
         android:layout_height="fill_parent">
 
         <android.support.design.widget.FloatingActionButton
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
             android:clickable="true"
             app:fabSize="mini"
+            android:background="@drawable/icon"
+            android:layout_gravity="bottom|end"
             app:srcCompat="@drawable/icon"
+            android:layout_marginRight="50dp"
+            android:layout_marginBottom="50dp"
             android:id="@+id/floatingActionButton2" />
     </FrameLayout>
 
